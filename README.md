@@ -3,7 +3,7 @@
 
 
 # Summary
-- Technical Writer withexperience in software, hardware, and cloud domain
+- Technical Writer with experience in software, hardware, and cloud domain
 - Expertize in API documentation, user guides, help files
 - MS Office, Oxygen XML Author (DITA), Markdown
 - Confluence, Git & GitHub, Postman, Swagger Editor
